@@ -1,18 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap");
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 html {
-    font-size: 62%;
-    /* 1 rem 10 px */
+  font-size: 62%;
+  /* 1 rem 10 px */
 }
 
 button {
-    border: 0px;
+  border: 0px;
 }
 
 /* initals dagi bodyga font */
