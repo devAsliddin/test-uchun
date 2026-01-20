@@ -1,3 +1,2 @@
-a = 1
-b = 2 
-print("hell nah")
+# Oybek hentai master
+# Asliddin alfons master
